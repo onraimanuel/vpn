@@ -1,0 +1,95 @@
+2023-07-06 11:36:23.1920-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:36:23.2467-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:37:27.6230-INFO MyAppExit Begin
+2023-07-06 11:37:27.7963-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:37:27.7963-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:37:27.7963-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:37:27.7963-INFO MyAppExit End
+2023-07-06 11:37:28.0771-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:37:28.8560-INFO Tun mode configuration file test start
+2023-07-06 11:37:31.0637-INFO Tun mode configuration file test end
+2023-07-06 11:37:41.6093-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:37:41.6259-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:37:41.6259-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:37:43.3353-INFO Tun mode configuration file test start
+2023-07-06 11:37:45.4630-INFO Tun mode configuration file test end
+2023-07-06 11:38:00.0363-INFO Tun mode monitors restart
+2023-07-06 11:38:00.2870-INFO MyAppExit Begin
+2023-07-06 11:38:00.4599-INFO MyAppExit End
+2023-07-06 11:38:16.0263-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:38:27.5719-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:38:27.5719-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:38:28.0844-INFO MyAppExit Begin
+2023-07-06 11:38:28.2552-INFO MyAppExit End
+2023-07-06 11:38:28.5284-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:38:37.3710-INFO Tun mode configuration file test start
+2023-07-06 11:38:39.5228-INFO Tun mode configuration file test end
+2023-07-06 11:38:40.0782-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:38:40.0912-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:39:28.8887-INFO UpdateTaskRunSubscription
+2023-07-06 11:40:28.8851-INFO UpdateTaskRunGeo
+2023-07-06 11:40:45.2830-INFO MyAppExit Begin
+2023-07-06 11:40:45.4547-INFO MyAppExit End
+2023-07-06 11:42:36.2451-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:43:06.2896-INFO MyAppExit Begin
+2023-07-06 11:43:06.4060-INFO MyAppExit End
+2023-07-06 11:43:06.8590-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:43:16.9348-INFO Tun mode configuration file test start
+2023-07-06 11:43:20.0967-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:43:20.1261-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:43:20.2852-INFO Tun mode configuration file test end
+2023-07-06 11:43:26.3077-INFO Tun mode configuration file test start
+2023-07-06 11:43:28.4761-INFO Tun mode configuration file test end
+2023-07-06 11:43:43.7494-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:43:43.7494-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:44:07.1861-INFO UpdateTaskRunSubscription
+2023-07-06 11:45:07.1810-INFO UpdateTaskRunGeo
+2023-07-06 11:45:23.4490-INFO MyAppExit Begin
+2023-07-06 11:45:23.6142-INFO MyAppExit End
+2023-07-06 11:47:05.5940-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:47:17.1434-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:47:17.1730-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:47:25.7139-INFO MyAppExit Begin
+2023-07-06 11:47:25.8729-INFO MyAppExit End
+2023-07-06 11:47:26.1632-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN.exe
+2023-07-06 11:47:32.7811-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:47:32.8112-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:47:32.8112-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:48:13.8513-INFO Tun mode configuration file test start
+2023-07-06 11:48:16.0020-INFO Tun mode configuration file test end
+2023-07-06 11:48:18.8570-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:48:18.8570-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:48:18.8570-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:48:26.5146-INFO UpdateTaskRunSubscription
+2023-07-06 11:49:10.4232-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-06 11:49:10.4232-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:49:20.5770-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:20.5770-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:49:20.5770-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:24.3228-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:24.3228-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:49:24.3228-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:25.6407-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:25.6407-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:49:25.6407-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:26.5135-INFO UpdateTaskRunGeo
+2023-07-06 11:49:31.5175-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:31.5175-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-06 11:49:31.5175-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-06 11:49:55.7407-INFO MyAppExit Begin
+2023-07-06 11:49:55.9224-INFO MyAppExit End

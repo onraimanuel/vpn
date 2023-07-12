@@ -1,0 +1,8 @@
+2023-07-05 12:01:06.0595-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-05 12:01:18.2653-INFO MyAppExit Begin
+2023-07-05 12:01:18.4693-INFO MyAppExit End
+2023-07-05 12:01:18.7413-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-05 12:01:31.5693-INFO Tun mode configuration file test start
+2023-07-05 12:01:33.7139-INFO Tun mode configuration file test end
+2023-07-05 12:02:19.0795-INFO UpdateTaskRunSubscription
+2023-07-05 12:03:19.0840-INFO UpdateTaskRunGeo

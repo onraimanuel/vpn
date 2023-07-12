@@ -1,0 +1,15 @@
+2023-07-04 10:44:40.5096-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-04 10:44:55.5359-INFO MyAppExit Begin
+2023-07-04 10:44:55.6843-INFO MyAppExit End
+2023-07-04 10:44:56.0255-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-04 10:45:06.0615-INFO Tun mode configuration file test start
+2023-07-04 10:45:08.2115-INFO Tun mode configuration file test end
+2023-07-04 10:45:56.4049-INFO UpdateTaskRunSubscription
+2023-07-04 10:46:56.4021-INFO UpdateTaskRunGeo
+2023-07-04 19:34:47.7815-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-04 19:34:47.8189-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-04 21:31:23.6092-INFO Tun mode monitors restart
+2023-07-04 21:31:31.4071-INFO Current_SessionEnding
+2023-07-04 21:31:31.4071-INFO MyAppExit Begin
+2023-07-04 21:31:31.4210-INFO MyAppExit End

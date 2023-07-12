@@ -1,0 +1,41 @@
+2023-07-03 12:07:43.8670-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-03 12:08:12.5955-INFO MyAppExit Begin
+2023-07-03 12:08:12.6541-INFO MyAppExit End
+2023-07-03 12:08:16.5458-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-03 12:09:14.1499-INFO MyAppExit Begin
+2023-07-03 12:09:14.1979-INFO MyAppExit End
+2023-07-03 12:10:28.8711-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-03 12:10:50.2192-INFO MyAppExit Begin
+2023-07-03 12:10:50.2939-INFO MyAppExit End
+2023-07-03 12:10:50.6715-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-03 12:10:57.4093-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-03 12:10:57.4354-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-03 12:10:57.4354-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-03 12:10:57.7953-INFO Tun mode configuration file test start
+2023-07-03 12:11:00.9288-INFO Tun mode configuration file test end
+2023-07-03 12:11:13.6539-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-03 12:11:13.6539-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-03 12:11:50.9944-INFO UpdateTaskRunSubscription
+2023-07-03 12:12:50.9944-INFO UpdateTaskRunGeo
+2023-07-03 12:27:22.2826-INFO Tun mode monitors restart
+2023-07-03 12:27:22.9519-INFO Current_SessionEnding
+2023-07-03 12:27:22.9519-INFO MyAppExit Begin
+2023-07-03 12:27:23.0953-INFO MyAppExit End
+2023-07-03 20:47:48.2386-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-03 20:48:48.6302-INFO UpdateTaskRunSubscription
+2023-07-03 20:49:48.6333-INFO UpdateTaskRunGeo
+2023-07-03 20:53:00.6521-INFO MyAppExit Begin
+2023-07-03 20:53:00.8153-INFO MyAppExit End
+2023-07-03 20:53:01.1061-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN-With-Core\v2rayN.exe
+2023-07-03 20:53:15.2884-INFO Tun mode configuration file test start
+2023-07-03 20:53:17.4544-INFO Tun mode configuration file test end
+2023-07-03 20:54:01.4542-INFO UpdateTaskRunSubscription
+2023-07-03 20:55:01.4634-INFO UpdateTaskRunGeo
+2023-07-03 21:02:09.2975-DEBUG The operation has timed out.,The operation has timed out.
+2023-07-03 21:02:09.3305-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-03 21:25:41.4121-INFO Current_SessionEnding
+2023-07-03 21:25:41.4121-INFO MyAppExit Begin
+2023-07-03 21:25:41.5643-INFO MyAppExit End

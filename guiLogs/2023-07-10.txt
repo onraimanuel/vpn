@@ -1,0 +1,25 @@
+2023-07-10 17:02:38.4333-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN.exe
+2023-07-10 17:02:44.9141-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-10 17:02:44.9528-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-10 17:02:44.9528-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-10 17:02:48.7802-INFO MyAppExit Begin
+2023-07-10 17:02:48.9423-INFO MyAppExit End
+2023-07-10 17:02:49.2306-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Lenovo\Downloads\Compressed\v2rayN-With-Core\v2rayN.exe
+2023-07-10 17:02:55.3167-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-10 17:02:55.3879-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-10 17:02:55.3879-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-10 17:02:59.7882-INFO Tun mode configuration file test start
+2023-07-10 17:03:01.9195-INFO Tun mode configuration file test end
+2023-07-10 17:03:15.5307-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-10 17:03:15.5307-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-10 17:03:15.5307-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-10 17:03:41.6418-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2023-07-10 17:03:41.6418-DEBUG    at System.Net.HttpWebRequest.GetResponse()
+   at v2rayN.Handler.DownloadHandle.GetRealPingTime(String url, IWebProxy webProxy, Int32 downloadTimeout, Int32& responseTime)
+2023-07-10 17:03:41.6418-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2023-07-10 17:03:49.5393-INFO UpdateTaskRunSubscription
+2023-07-10 17:04:09.3703-INFO MyAppExit Begin
+2023-07-10 17:04:09.5540-INFO MyAppExit End

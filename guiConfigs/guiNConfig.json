@@ -1,0 +1,180 @@
+{
+  "indexId": "5061838567704815590",
+  "subIndexId": null,
+  "remoteDNS": null,
+  "domainStrategy4Freedom": null,
+  "sysProxyType": 0,
+  "systemProxyExceptions": null,
+  "systemProxyAdvancedProtocol": null,
+  "coreBasicItem": {
+    "logEnabled": false,
+    "loglevel": "warning",
+    "muxEnabled": false,
+    "defAllowInsecure": false,
+    "defFingerprint": null,
+    "defUserAgent": null
+  },
+  "tunModeItem": {
+    "enableTun": true,
+    "showWindow": true,
+    "enabledLog": false,
+    "strictRoute": false,
+    "stack": "gvisor",
+    "mtu": 9000,
+    "customTemplate": null,
+    "bypassMode": true,
+    "directIP": null,
+    "directProcess": null,
+    "directDNS": null,
+    "proxyIP": null,
+    "proxyProcess": null,
+    "proxyDNS": null
+  },
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "grpcItem": {
+    "idle_timeout": 60,
+    "health_check_timeout": 20,
+    "permit_without_stream": false,
+    "initial_windows_size": 0
+  },
+  "routingBasicItem": {
+    "domainStrategy": "AsIs",
+    "domainMatcher": null,
+    "routingIndexId": "4756960166067461394",
+    "enableRoutingAdvanced": true
+  },
+  "guiItem": {
+    "autoRun": false,
+    "enableStatistics": false,
+    "statisticsFreshRate": 1,
+    "keepOlderDedupl": false,
+    "ignoreGeoUpdateCore": true,
+    "autoUpdateInterval": 10,
+    "checkPreReleaseUpdate": false,
+    "enableSecurityProtocolTls13": false,
+    "trayMenuServersLimit": 20,
+    "enableHWA": false,
+    "enableLog": true
+  },
+  "uiItem": {
+    "enableAutoAdjustMainLvColWidth": true,
+    "mainWidth": 900.0,
+    "mainHeight": 700.0,
+    "mainGirdHeight1": 254.0,
+    "mainGirdHeight2": 254.0,
+    "colorModeDark": false,
+    "colorPrimaryName": null,
+    "currentLanguage": "en",
+    "currentFontFamily": null,
+    "currentFontSize": 0,
+    "enableDragDropSort": false,
+    "doubleClick2Activate": false,
+    "autoHideStartup": true,
+    "mainMsgFilter": null,
+    "showTrayTip": false,
+    "mainColumnItem": [
+      {
+        "Name": "configType",
+        "Width": 80,
+        "Index": 0
+      },
+      {
+        "Name": "remarks",
+        "Width": 150,
+        "Index": 1
+      },
+      {
+        "Name": "address",
+        "Width": 120,
+        "Index": 2
+      },
+      {
+        "Name": "port",
+        "Width": 60,
+        "Index": 3
+      },
+      {
+        "Name": "security",
+        "Width": 100,
+        "Index": 4
+      },
+      {
+        "Name": "network",
+        "Width": 100,
+        "Index": 5
+      },
+      {
+        "Name": "streamSecurity",
+        "Width": 100,
+        "Index": 6
+      },
+      {
+        "Name": "subRemarks",
+        "Width": 100,
+        "Index": 7
+      },
+      {
+        "Name": "delayVal",
+        "Width": 100,
+        "Index": 8
+      },
+      {
+        "Name": "speedVal",
+        "Width": 100,
+        "Index": 9
+      },
+      {
+        "Name": "todayUp",
+        "Width": 0,
+        "Index": 10
+      },
+      {
+        "Name": "todayDown",
+        "Width": 0,
+        "Index": 11
+      },
+      {
+        "Name": "totalUp",
+        "Width": 0,
+        "Index": 12
+      },
+      {
+        "Name": "totalDown",
+        "Width": 0,
+        "Index": 13
+      }
+    ]
+  },
+  "constItem": {
+    "defIEProxyExceptions": "localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*",
+    "subConvertUrl": ""
+  },
+  "speedTestItem": {
+    "speedTestTimeout": 10,
+    "speedTestUrl": "http://cachefly.cachefly.net/100mb.test",
+    "speedPingTestUrl": "https://www.google.com/generate_204"
+  },
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true,
+      "routeOnly": false,
+      "allowLANConn": false,
+      "newPort4LAN": false,
+      "user": null,
+      "pass": null
+    }
+  ],
+  "globalHotkeys": null,
+  "coreTypeItem": null
+}
